@@ -1,0 +1,9 @@
+.App {
+  background-image: linear-gradient(to right, rgb(151, 165, 192), rgb(5, 69, 187));
+}
+
+#main-heading {
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+}

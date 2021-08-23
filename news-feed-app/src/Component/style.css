@@ -1,0 +1,38 @@
+#card-container {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 5%;
+    height: 200px;
+    background-color: rgba(6, 7, 90, 0.349);
+    color: black;
+    border-radius: 20px;
+}
+
+@media only screen and (max-width:900px) {
+    #card-container {
+        
+        width: 400px;
+        margin: 25px;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    #card-container {
+        
+        width: 320px;
+        margin: 20px;
+    }
+}
+
+.inside-card {
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 5px;
+    margin:10px 30%;
+}

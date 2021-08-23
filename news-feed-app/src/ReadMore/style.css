@@ -1,0 +1,14 @@
+.full-data-info {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+#heading {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+#main-article-button {
+    justify-content: start;
+}
